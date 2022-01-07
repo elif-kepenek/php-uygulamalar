@@ -33,7 +33,7 @@ session_start();
                 <label for="username" class="text-success">Kullanıcı Adınız</label>
                 <input type="text" name="username" value="<?= session('username') ?>" class="form-control">
                 <label for="password" class="text-success">Şifreniz</label>
-                <input type="text" name="password" value="<?= session('password') ?>" class="form-control mb-4">
+                <input type="password" name="password" value="<?= session('password') ?>" class="form-control mb-4">
                 <button class="btn btn-success mb-4 w-100">Giriş Yap</button>
             </form>
         </div>
