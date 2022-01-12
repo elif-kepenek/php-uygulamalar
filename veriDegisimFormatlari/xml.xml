@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kisiler>
+    <kisi>
+        <isim>İsim Bilgisi</isim>
+        <soyisim>Soyisim Bilgisi</soyisim>
+        <yas>Yaş Bilgisi</yas>
+    </kisi>
+    <kisi>
+        <isim>İsim Bilgisi</isim>
+        <soyisim>Soyisim Bilgisi</soyisim>
+        <yas>Yaş Bilgisi</yas>
+    </kisi>
+</kisiler>
